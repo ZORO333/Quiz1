@@ -12,3 +12,4 @@ C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\refint\Quiz1.
 C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.pdb
 C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.genruntimeconfig.cache
 C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\ref\Quiz1.dll
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.sourcelink.json
