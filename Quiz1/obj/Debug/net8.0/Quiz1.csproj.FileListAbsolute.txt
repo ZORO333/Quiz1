@@ -1,0 +1,14 @@
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.exe
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.deps.json
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.runtimeconfig.json
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.dll
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.pdb
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.AssemblyInfoInputs.cache
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.AssemblyInfo.cs
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.dll
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\refint\Quiz1.dll
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.pdb
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.genruntimeconfig.cache
+C:\Users\Syncentralen\Desktop\My fils\Quiz1\Quiz1\obj\Debug\net8.0\ref\Quiz1.dll
